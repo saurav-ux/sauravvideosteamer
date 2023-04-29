@@ -54,6 +54,8 @@ Copy all Folders like components ,public,source
 ```bash
   npm start
 ```
+Snapshort
+![image](https://user-images.githubusercontent.com/72144149/235320351-510a0c0b-3a78-4eca-8cfb-5b8e5ad7be0c.png)
 
 
 #
